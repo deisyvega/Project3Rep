@@ -1,1 +1,1 @@
-# Project3Rep
+TV Show Finder is a React web application that uses the TVMaze API to search for TV shows. Users can search for a TV show and view its poster, rating, premiere date, genres, and a short summary. My styles.css tropical color scheme is based on the show I am watching at the moment, Love Island USA.
